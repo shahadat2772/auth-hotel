@@ -1,0 +1,22 @@
+.links a {
+  text-decoration: none;
+  color: white;
+  margin-right: 8px;
+}
+
+.logOutBtn {
+  background: none;
+  border: none;
+  color: white;
+  padding: 0px;
+  margin-right: 8px;
+}
+
+.logOutBtn:hover {
+  color: blue;
+}
+
+.header {
+  text-decoration: none;
+  color: white;
+}

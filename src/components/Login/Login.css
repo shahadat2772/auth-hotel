@@ -1,0 +1,10 @@
+.orlinesContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.orlines {
+  border: 1px solid lightgray;
+  width: 35%;
+  border-radius: 50%;
+}

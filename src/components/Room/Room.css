@@ -1,0 +1,16 @@
+.roomContainer {
+  width: 22rem;
+  margin: 0px auto;
+  border: 1px solid lightgrey;
+  padding: 10px;
+}
+
+.roomContainer img {
+  width: 100%;
+}
+
+@media only screen and (max-width: 576px) {
+  .roomContainer {
+    width: 20rem;
+  }
+}

@@ -1,0 +1,13 @@
+.roomsContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  margin: 35px 80px;
+}
+
+@media only screen and (max-width: 576px) {
+  .roomsContainer {
+    grid-template-columns: 1fr;
+    margin: 50px auto;
+  }
+}
